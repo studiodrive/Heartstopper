@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-TARGETDURATION:15
 #EXT-X-DISCONTINUITY
 #EXTINF:-1,
 https://data.terabox.com/video/netdisk-videotran-tky/21b272c5688284244898795083291dda_1075_1_ts/42c0e65e77edda4da8cc880b6d952169?ts_size=28850856&app_id=250528&ccn=BR&csl=0&dp-logid=8673901259934160015&fn=Heartstopper+S01E01.mkv&from_type=1&fsid=450770754042666&idc_c=1&iv=2&logid=8673901259934160015&ouk=4401446718729&r=235954015&size=598832835&sta_cs=82&sta_dt=video&sta_dx=571&time=1683369163&to=gds&tot=ctkAX&uo=any&uva=1211524200&vuk=4401446718729&dtime=10&etag=42c0e65e77edda4da8cc880b6d952169&fid=93cc682244686c70a6aa4f6a3000bb7c-4401446718729&len=503840&path=%2FHeartstopper+S01E01.mkv&range=0-503839&region=tky&sign=BOUTHNFI-F3530edecde9cd71b79378b290804a96-FaP5lbeoMDFoMZRDuZmKwCJwS3c%253D&need_suf=&pmk=140042c0e65e77edda4da8cc880b6d952169634bd1b3000001b83aa8&by=my-streaming
